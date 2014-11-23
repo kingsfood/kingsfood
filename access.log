@@ -1,0 +1,7 @@
+127.0.0.1 - - [23/Nov/2014:12:52:30 -0200] "GET / HTTP/1.1" 200 256 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+127.0.0.1 - - [23/Nov/2014:12:52:30 -0200] "GET /favicon.ico HTTP/1.1" 200 283 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+127.0.0.1 - - [23/Nov/2014:12:52:40 -0200] "GET / HTTP/1.1" 200 256 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+127.0.0.1 - - [23/Nov/2014:12:52:41 -0200] "GET / HTTP/1.1" 200 255 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+127.0.0.1 - - [23/Nov/2014:12:52:41 -0200] "GET / HTTP/1.1" 200 255 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+127.0.0.1 - - [23/Nov/2014:12:52:41 -0200] "GET / HTTP/1.1" 200 255 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
+127.0.0.1 - - [23/Nov/2014:12:53:34 -0200] "GET / HTTP/1.1" 200 6321 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36"
